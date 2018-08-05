@@ -10,4 +10,6 @@ function multiply(a, b) {
   return a * b
 }
 
-function 
+function divide(a, b) {
+  return a / b
+}
